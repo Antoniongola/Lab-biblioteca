@@ -8,4 +8,7 @@ public class Exe1 {
         else
             System.out.println("Menor de idade");
     }
+    public static int somar(){
+	return(a+b);
+    }
 }
